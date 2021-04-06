@@ -1,1 +1,7 @@
 # AI-FACE-DETECTOR
+
+Detects the face of a human
+
+DEVELOPED BY ABHRA K DUBEY
+
+MODULE USED: cv2
